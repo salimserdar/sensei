@@ -31,7 +31,8 @@ var paths = {
 		'node_modules/select2/dist/js/select2.full.min.js',
 	],
 	packageContents: [
-		'assets/**/*',
+		'assets/dist/**/*',
+		'assets/vendor/**/*',
 		'changelog.txt',
 		'CONTRIBUTING.md',
 		'LICENSE',
