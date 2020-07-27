@@ -407,10 +407,6 @@ class Sensei_Main {
 			$this->analysis = new Sensei_Analysis( $this->main_plugin_file_name );
 
 			new Sensei_Import();
-
-			if ( $this->feature_flags->is_enabled( 'rest_api_testharness' ) ) {
-				$this->test_harness = new Sensei_Admin_Rest_Api_Testharness( $this->main_plugin_file_name );
-			}
 		} else {
 
 			// Load Frontend Class
