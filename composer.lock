@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9797db96a6fead6fda56358269c051c2",
+    "content-hash": "6656488eb33eec2d26c496eccabe06b3",
     "packages": [],
     "packages-dev": [
         {
@@ -1759,16 +1759,16 @@
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.5.5",
+            "version": "3.5.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "73e2e7f57d958e7228fce50dc0c61f58f017f9f6"
+                "reference": "e97627871a7eab2f70e59166072a6b767d5834e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/73e2e7f57d958e7228fce50dc0c61f58f017f9f6",
-                "reference": "73e2e7f57d958e7228fce50dc0c61f58f017f9f6",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/e97627871a7eab2f70e59166072a6b767d5834e0",
+                "reference": "e97627871a7eab2f70e59166072a6b767d5834e0",
                 "shasum": ""
             },
             "require": {
@@ -1806,7 +1806,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2020-04-17T01:09:41+00:00"
+            "time": "2020-08-10T04:50:15+00:00"
         },
         {
             "name": "swaggest/json-diff",
@@ -1849,16 +1849,16 @@
         },
         {
             "name": "swaggest/json-schema",
-            "version": "v0.12.29",
+            "version": "v0.12.30",
             "source": {
                 "type": "git",
                 "url": "https://github.com/swaggest/php-json-schema.git",
-                "reference": "7564d4a5fc8c068479698a30e5a7c589ea32a9c6"
+                "reference": "4aca4f5eca6bdd66bd035c86cb25257b2110b7a0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/swaggest/php-json-schema/zipball/7564d4a5fc8c068479698a30e5a7c589ea32a9c6",
-                "reference": "7564d4a5fc8c068479698a30e5a7c589ea32a9c6",
+                "url": "https://api.github.com/repos/swaggest/php-json-schema/zipball/4aca4f5eca6bdd66bd035c86cb25257b2110b7a0",
+                "reference": "4aca4f5eca6bdd66bd035c86cb25257b2110b7a0",
                 "shasum": ""
             },
             "require": {
@@ -1889,7 +1889,7 @@
                 }
             ],
             "description": "High definition PHP structures with JSON-schema based validation",
-            "time": "2020-03-19T08:41:40+00:00"
+            "time": "2020-09-09T21:53:38+00:00"
         },
         {
             "name": "symfony/polyfill-ctype",
